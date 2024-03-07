@@ -17,7 +17,6 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -31,7 +30,7 @@
   <samp>
     <!-- <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
     <br>
-    「 I am a mern stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Full stack web application developer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
