@@ -85,11 +85,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Interpersonal Skills:
-![Teamwork](https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=teamwork&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=problem-solving&logoColor=white)
-![Decision Making](https://img.shields.io/badge/Decision_Making-000000?style=for-the-badge&logo=decision-making&logoColor=white)
-![Hardworking](https://img.shields.io/badge/Hardworking-000000?style=for-the-badge&logo=hardworking&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-000000?style=for-the-badge&logo=communication&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge&logo=teamwork&logoColor=white" alt="Teamwork"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-FF5722?style=for-the-badge&logo=problem-solving&logoColor=white" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Decision_Making-2196F3?style=for-the-badge&logo=decision-making&logoColor=white" alt="Decision Making"/>
+  <img src="https://img.shields.io/badge/Hardworking-FBC02D?style=for-the-badge&logo=hardworking&logoColor=white" alt="Hardworking"/>
+  <img src="https://img.shields.io/badge/Communication-9C27B0?style=for-the-badge&logo=communication&logoColor=white" alt="Communication"/>
+</p>
+
 
 
 
