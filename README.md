@@ -105,5 +105,9 @@
 ## Stats
 
 ![Mostakem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostakemHossain&show_icons=true&theme=radical&hide_title=false&hide=prs)
+<!-- Longest Streak Section -->
+## Longest Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mostakemHossain&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Mostakem's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostakemHossain&layout=compact&theme=radical)
